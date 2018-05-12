@@ -1,0 +1,43 @@
+_repo: Ox-Team-Days-on-the-Oregon-Trail_29543
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wilson, F. N. (Frederick N.)
+    alias: Wilson, Frederick N.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '33977'
+    url: http://www.gutenberg.org/2009/agents/33977
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Driggs, Howard R. (Howard Roscoe)
+    alias: Driggs, Howard Roscoe
+    birthdate: 1873
+    deathdate: 1963
+    gutenberg_agent_id: '33976'
+    url: http://www.gutenberg.org/2009/agents/33976
+  - agent_name: Meeker, Ezra
+    alias: Meeker, E. (Ezra)
+    birthdate: 1830
+    deathdate: 1928
+    gutenberg_agent_id: '33975'
+    url: http://www.gutenberg.org/2009/agents/33975
+description: ''
+gutenberg_issued: '2009-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Overland journeys to the Pacific'
+- !lcsh 'Northwestern States -- Description and travel'
+- !lcsh 'Oregon -- Description and travel'
+title: Ox-Team Days on the Oregon Trail
+url: http://www.gutenberg.org/ebooks/29543
